@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/c410111c-bdae-45c3-b7df-1ed08a51abe9) ![image](https://github.com/user-attachments/assets/cfd3a0da-e6f9-4df9-8c55-3fbee99d0d3e)
+![](https://raw.githubusercontent.com/fullerzz/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/fullerzz/github-stats-transparent/output/generated/languages.svg)
 
 ## About Me - fullerzz
 I'm just a guy from Arizona that thinks software is pretty neat. I spend my days working as a backend software developer writing and maintaining cloud-based applications.
